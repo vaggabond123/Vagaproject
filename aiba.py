@@ -3,4 +3,4 @@ def linear_solve(a, b):
     return x
 
 result = linear_solve(0, 1)
-print(result)
+print(result)adsadsmkvc
